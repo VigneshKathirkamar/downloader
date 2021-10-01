@@ -1,3 +1,2 @@
-# downloader
-Downloading Youtube Videos
-This script is made in order to donwload videos from Youtube
+# Youtube Video Downloader
+A simple script using python to download videos from Youtube
