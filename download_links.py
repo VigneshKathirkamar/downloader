@@ -1,6 +1,5 @@
 #Script to download videos from YouTube
 
-from __future__ import unicode_literals
 import youtube_dl
 
 path = str(input("Enter path of the text file containing youtube links: "))
